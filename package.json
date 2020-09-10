@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vamsi963601/vamsi963601.github.io/issues"
   },
-  "homepage": "https://github.com/vamsi963601/vamsi963601.github.io#readme"
+  "homepage": "https://github.com/vamsi963601/vamsi963601.github.io#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }
