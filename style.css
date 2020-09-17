@@ -10,15 +10,15 @@ body
     
 }
 
-.container{
+.container.pp{
     height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: 'Press Start 2P', cursive;
+    
 }
 
-.container p{
+.container.pp p{
     font-size: 3rem;
     text-align: center;
     overflow: hidden;
@@ -47,4 +47,8 @@ body
     50% {background-color:transparent;}
     99% {background-color:transparent;}
     100% {background-color: #ccc;}
+}
+
+.card-img-top{
+    padding-bottom: 20px;
 }
